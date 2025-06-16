@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "OfficeAI 智能办公助手",
+  "name_for_model": "officeai_plugin",
+  "description_for_human": "助力高效 Office 操作，支持文档智能解析、格式转换、内容生成等功能",
+  "description_for_model": "提供 Office 文档处理能力，可解析 Word、Excel、PPT 内容，执行格式转换、智能撰写等操作",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://web-framwork-study.oss-cn-chengdu.aliyuncs.com/openapi.yaml"
+  },
+  "logo_url": "https://web-framwork-study.oss-cn-chengdu.aliyuncs.com/officeAi%E5%9B%BE%E6%A0%87.png",
+  "contact_email": "2286676082@qq.com",
+  "legal_info_url": "https://your-domain.com/legal"
+}
